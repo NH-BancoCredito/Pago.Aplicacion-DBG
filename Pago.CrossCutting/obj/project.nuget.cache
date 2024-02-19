@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "xZbpBDqPfqetORGlHkusxZ948mor0zvPpGiE8DiFGXvn0z9m83W4cnI4dcV8vho3c9LEUgZfDJP4QCLSY6xbXg==",
+  "success": true,
+  "projectFilePath": "D:\\TallerMicroservicios\\Pago.Aplicacion\\Pago.CrossCutting\\Pago.CrossCutting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Daniel\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
+    "C:\\Users\\Daniel\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Daniel\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

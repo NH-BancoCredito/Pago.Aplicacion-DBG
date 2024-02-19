@@ -1,0 +1,15 @@
+D:\TallerMicroservicios\Pago.Aplicacion\Pago.Application\obj\Debug\net8.0\Pago.Application.csproj.AssemblyReference.cache
+D:\TallerMicroservicios\Pago.Aplicacion\Pago.Application\obj\Debug\net8.0\Pago.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\TallerMicroservicios\Pago.Aplicacion\Pago.Application\obj\Debug\net8.0\Pago.Application.AssemblyInfoInputs.cache
+D:\TallerMicroservicios\Pago.Aplicacion\Pago.Application\obj\Debug\net8.0\Pago.Application.AssemblyInfo.cs
+D:\TallerMicroservicios\Pago.Aplicacion\Pago.Application\obj\Debug\net8.0\Pago.Application.csproj.CoreCompileInputs.cache
+D:\TallerMicroservicios\Pago.Aplicacion\Pago.Application\bin\Debug\net8.0\Pago.Application.deps.json
+D:\TallerMicroservicios\Pago.Aplicacion\Pago.Application\bin\Debug\net8.0\Pago.Application.dll
+D:\TallerMicroservicios\Pago.Aplicacion\Pago.Application\bin\Debug\net8.0\Pago.Application.pdb
+D:\TallerMicroservicios\Pago.Aplicacion\Pago.Application\bin\Debug\net8.0\Pago.Domain.dll
+D:\TallerMicroservicios\Pago.Aplicacion\Pago.Application\bin\Debug\net8.0\Pago.Domain.pdb
+D:\TallerMicroservicios\Pago.Aplicacion\Pago.Application\obj\Debug\net8.0\Pago.Application.csproj.CopyComplete
+D:\TallerMicroservicios\Pago.Aplicacion\Pago.Application\obj\Debug\net8.0\Pago.Application.dll
+D:\TallerMicroservicios\Pago.Aplicacion\Pago.Application\obj\Debug\net8.0\refint\Pago.Application.dll
+D:\TallerMicroservicios\Pago.Aplicacion\Pago.Application\obj\Debug\net8.0\Pago.Application.pdb
+D:\TallerMicroservicios\Pago.Aplicacion\Pago.Application\obj\Debug\net8.0\ref\Pago.Application.dll

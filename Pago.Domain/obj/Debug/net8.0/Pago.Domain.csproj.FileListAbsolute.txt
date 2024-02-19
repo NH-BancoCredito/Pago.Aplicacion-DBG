@@ -1,0 +1,11 @@
+D:\TallerMicroservicios\Pago.Aplicacion\Pago.Domain\bin\Debug\net8.0\Pago.Domain.deps.json
+D:\TallerMicroservicios\Pago.Aplicacion\Pago.Domain\bin\Debug\net8.0\Pago.Domain.dll
+D:\TallerMicroservicios\Pago.Aplicacion\Pago.Domain\bin\Debug\net8.0\Pago.Domain.pdb
+D:\TallerMicroservicios\Pago.Aplicacion\Pago.Domain\obj\Debug\net8.0\Pago.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\TallerMicroservicios\Pago.Aplicacion\Pago.Domain\obj\Debug\net8.0\Pago.Domain.AssemblyInfoInputs.cache
+D:\TallerMicroservicios\Pago.Aplicacion\Pago.Domain\obj\Debug\net8.0\Pago.Domain.AssemblyInfo.cs
+D:\TallerMicroservicios\Pago.Aplicacion\Pago.Domain\obj\Debug\net8.0\Pago.Domain.csproj.CoreCompileInputs.cache
+D:\TallerMicroservicios\Pago.Aplicacion\Pago.Domain\obj\Debug\net8.0\Pago.Domain.dll
+D:\TallerMicroservicios\Pago.Aplicacion\Pago.Domain\obj\Debug\net8.0\refint\Pago.Domain.dll
+D:\TallerMicroservicios\Pago.Aplicacion\Pago.Domain\obj\Debug\net8.0\Pago.Domain.pdb
+D:\TallerMicroservicios\Pago.Aplicacion\Pago.Domain\obj\Debug\net8.0\ref\Pago.Domain.dll

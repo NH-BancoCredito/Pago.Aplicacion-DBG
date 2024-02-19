@@ -1,0 +1,6 @@
+@Pago.WebApi_HostAddress = http://localhost:5255
+
+GET {{Pago.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

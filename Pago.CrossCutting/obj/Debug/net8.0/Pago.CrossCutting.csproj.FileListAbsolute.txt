@@ -1,0 +1,12 @@
+D:\TallerMicroservicios\Pago.Aplicacion\Pago.CrossCutting\bin\Debug\net8.0\Pago.CrossCutting.deps.json
+D:\TallerMicroservicios\Pago.Aplicacion\Pago.CrossCutting\bin\Debug\net8.0\Pago.CrossCutting.dll
+D:\TallerMicroservicios\Pago.Aplicacion\Pago.CrossCutting\bin\Debug\net8.0\Pago.CrossCutting.pdb
+D:\TallerMicroservicios\Pago.Aplicacion\Pago.CrossCutting\obj\Debug\net8.0\Pago.CrossCutting.csproj.AssemblyReference.cache
+D:\TallerMicroservicios\Pago.Aplicacion\Pago.CrossCutting\obj\Debug\net8.0\Pago.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+D:\TallerMicroservicios\Pago.Aplicacion\Pago.CrossCutting\obj\Debug\net8.0\Pago.CrossCutting.AssemblyInfoInputs.cache
+D:\TallerMicroservicios\Pago.Aplicacion\Pago.CrossCutting\obj\Debug\net8.0\Pago.CrossCutting.AssemblyInfo.cs
+D:\TallerMicroservicios\Pago.Aplicacion\Pago.CrossCutting\obj\Debug\net8.0\Pago.CrossCutting.csproj.CoreCompileInputs.cache
+D:\TallerMicroservicios\Pago.Aplicacion\Pago.CrossCutting\obj\Debug\net8.0\Pago.CrossCutting.dll
+D:\TallerMicroservicios\Pago.Aplicacion\Pago.CrossCutting\obj\Debug\net8.0\refint\Pago.CrossCutting.dll
+D:\TallerMicroservicios\Pago.Aplicacion\Pago.CrossCutting\obj\Debug\net8.0\Pago.CrossCutting.pdb
+D:\TallerMicroservicios\Pago.Aplicacion\Pago.CrossCutting\obj\Debug\net8.0\ref\Pago.CrossCutting.dll

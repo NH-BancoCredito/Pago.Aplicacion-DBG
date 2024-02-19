@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "HyPvYv66GO5EFubP91BsYm1mo+Yhbgk7jkgpSYsipDc=",
+  "Source": "Pago.WebApi",
+  "BasePath": "_content/Pago.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
